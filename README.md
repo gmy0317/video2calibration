@@ -5,6 +5,7 @@ Python scripts for camera intrinsic parameters calibration and image undistortio
 
 It finds following parameters:
 
+
   * focal length
   * principal point
   * radial distortion coefficients
